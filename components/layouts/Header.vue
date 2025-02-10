@@ -63,8 +63,8 @@ const { title, github } = useAppConfig()
               <a
                 class="w-full px-6 py-2 mr-0 text-gray-700 cursor-pointer dark:text-gray-300 md:px-3 md:mr-2 lg:mr-3 md:w-auto"
                 href="/dashboard"
-                :title="`${title} Dashboard`"
-              >Dashboard</a>
+                :title="`${title} 控制面板`"
+              >控制面板</a>
               <a
                 :href="github"
                 target="_blank"

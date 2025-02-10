@@ -1,5 +1,6 @@
 export default defineAppConfig({
   title: 'GoShr.link',
+  tagline: '简单、快速、安全的url链接缩短工具，GoShr短网址工具让链接更简短',
   email: 'ibigqiang@gmail.com',
   github: 'https://github.com/ccbikai/Sink',
   twitter: 'https://x.com/iBigQiang',
