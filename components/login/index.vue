@@ -36,10 +36,10 @@ async function onSubmit(form) {
   <Card class="w-full max-w-sm">
     <CardHeader>
       <CardTitle class="text-2xl">
-        Login
+        登录
       </CardTitle>
       <CardDescription>
-        Enter your site token to login.
+        输入您的网站token令牌进行登录。
       </CardDescription>
     </CardHeader>
     <CardContent class="grid gap-4">
@@ -57,7 +57,7 @@ async function onSubmit(form) {
           </AlertDescription>
         </Alert>
         <Button class="w-full">
-          Login
+          登录
         </Button>
       </AutoForm>
     </CardContent>

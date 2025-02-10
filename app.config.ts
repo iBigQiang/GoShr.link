@@ -1,7 +1,7 @@
 export default defineAppConfig({
   title: 'GoShr.link',
   email: 'ibigqiang@gmail.com',
-  github: 'https://github.com/iBigQiang/GoShr.link',
+  github: 'https://github.com/ccbikai/Sink',
   twitter: 'https://x.com/iBigQiang',
   telegram: 'https://goshr.link/telegram',
   mastodon: 'https://goshr.link/x',
