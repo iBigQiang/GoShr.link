@@ -68,6 +68,7 @@ const { title, github } = useAppConfig()
               <a
                 :href="github"
                 target="_blank"
+                rel="nofollow noopener"
                 title="Github"
                 class="inline-flex items-center w-full px-6 py-3 text-sm font-medium leading-4 text-white bg-gray-900 md:px-3 md:w-auto md:rounded-full hover:bg-gray-800 focus:outline-none md:focus:ring-2 focus:ring-0 focus:ring-offset-2 focus:ring-gray-800"
               >

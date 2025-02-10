@@ -13,6 +13,7 @@
         href="https://github.com/ccbikai/sink?tab=readme-ov-file#%EF%B8%8F-deployment"
         type="inverted"
         target="_blank"
+        rel="nofollow noopener"
         title="开始部署"
       >
       开始部署
