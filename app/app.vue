@@ -5,7 +5,7 @@ const { title, description, image } = useAppConfig()
 const route = useRoute()
 
 useSeoMeta({
-  title: `${title} - Link Shortener with Analytics`,
+  title: `${title} - 简单、快速、安全的url链接缩短工具，GoShr短网址工具让链接更简短`,
   description,
   ogType: 'website',
   ogTitle: title,
