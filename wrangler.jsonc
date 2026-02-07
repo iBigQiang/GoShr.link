@@ -41,7 +41,7 @@
   "r2_buckets": [
     {
       "binding": "R2",
-      "preview_bucket_name": "sink",
+      "preview_bucket_name": "goshrlink",
       "bucket_name": "goshrlink" // IMPORTANT: Change this to your R2 bucket name, or create one with `wrangler r2 bucket create sink`
     }
   ],
