@@ -1,6 +1,6 @@
 export default defineAppConfig({
   title: 'GoShr.link',
-  github: 'https://github.com/iBigQiang/GoShr.link',
+  github: 'https://github.com/miantiao-me/sink',
   coffee: 'https://sink.cool/coffee',
   twitter: 'https://goshr.link/x',
   telegram: 'https://goshr.link/telegram',
